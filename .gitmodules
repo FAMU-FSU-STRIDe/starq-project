@@ -1,9 +1,11 @@
 [submodule "sbmpo-ros2"]
 	path = sbmpo-ros2
 	url = git@github.com:JTylerBoylan/sbmpo-ros2
+	branch = main
 [submodule "starq-ros2"]
 	path = starq-ros2
 	url = git@github.com:FAMU-FSU-STRIDe/starq-ros2
+	branch = main
 [submodule "isaac_ros_common"]
 	path = isaac_ros_common
 	url = https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_common
